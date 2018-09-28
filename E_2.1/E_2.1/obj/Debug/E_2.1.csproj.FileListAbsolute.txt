@@ -1,0 +1,6 @@
+c:\users\brand\source\repos\E_2.1\E_2.1\obj\Debug\E_2.1.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\E_2.1\E_2.1\bin\Debug\E_2.1.exe.config
+c:\users\brand\source\repos\E_2.1\E_2.1\bin\Debug\E_2.1.exe
+c:\users\brand\source\repos\E_2.1\E_2.1\bin\Debug\E_2.1.pdb
+c:\users\brand\source\repos\E_2.1\E_2.1\obj\Debug\E_2.1.exe
+c:\users\brand\source\repos\E_2.1\E_2.1\obj\Debug\E_2.1.pdb
